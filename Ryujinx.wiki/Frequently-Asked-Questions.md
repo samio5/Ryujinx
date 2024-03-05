@@ -1,0 +1,1 @@
+This page was [moved here](https://github.com/Ryujinx/Ryujinx/wiki/FAQ-and-Troubleshooting).
